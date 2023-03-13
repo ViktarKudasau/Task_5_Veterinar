@@ -8,7 +8,7 @@ public class Bear extends Animal{
 
     @Override
     public void getDescription() {
-        System.out.println("Медведь является крупным хищником...");
+        System.out.println("РњРµРґРІРµРґСЊ СЏРІР»СЏРµС‚СЃСЏ РєСЂСѓРїРЅС‹Рј С…РёС‰РЅРёРєРѕРј...");
     }
 
     @Override
@@ -18,12 +18,12 @@ public class Bear extends Animal{
 
     @Override
     public void makeNoise (){
-        System.out.println("РРРРРРРрррррр");
+        System.out.println("Р Р Р Р Р Р Р СЂСЂСЂСЂСЂСЂ");
 
     }
     @Override
     public void eat (){
-        System.out.println("Рыба, ягоды, мед");
+        System.out.println("Р С‹Р±Р°, СЏРіРѕРґС‹, РјРµРґ");
     }
 
     @Override

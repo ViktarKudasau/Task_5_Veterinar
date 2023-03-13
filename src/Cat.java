@@ -11,17 +11,17 @@ String passportCat;
     }
     @Override
     public void getDescription() {
-        System.out.println("Кот является домашним питомцем");
+        System.out.println("РљРѕС‚ СЏРІР»СЏРµС‚СЃСЏ РґРѕРјР°С€РЅРёРј РїРёС‚РѕРјС†РµРј");
     }
 
     @Override
     public void makeNoise (){
-        System.out.println("Мяу");
+        System.out.println("РњСЏСѓ");
 
     }
     @Override
     public void eat (){
-        System.out.println("Рыба, мясо, молоко, корм");
+        System.out.println("Р С‹Р±Р°, РјСЏСЃРѕ, РјРѕР»РѕРєРѕ, РєРѕСЂРј");
     }
 
     @Override

@@ -14,14 +14,14 @@ public class Animal {
     }
 
     public void makeNoise (){
-        System.out.println("Звук животного");
+        System.out.println("Р—РІСѓРє Р¶РёРІРѕС‚РЅРѕРіРѕ");
     }
     public void eat (){
-        System.out.println("То, чем питается животное");
+        System.out.println("РўРѕ, С‡РµРј РїРёС‚Р°РµС‚СЃСЏ Р¶РёРІРѕС‚РЅРѕРµ");
     }
 
     public void getDescription() {
-        System.out.println("Описание животного класса Animal");
+        System.out.println("РћРїРёСЃР°РЅРёРµ Р¶РёРІРѕС‚РЅРѕРіРѕ РєР»Р°СЃСЃР° Animal");
     }
 
     public void printName(){
@@ -29,7 +29,7 @@ public class Animal {
     }
 
     public String toString() {
-        return  "На прием пришел - " + name;
+        return  "РќР° РїСЂРёРµРј РїСЂРёС€РµР» - " + name;
     }
 
 }

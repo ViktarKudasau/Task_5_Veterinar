@@ -17,7 +17,7 @@ public class Main {
         Veterinar veterinar = new Veterinar();
 
         for (int i = 0; i < newList.size(); i++) {
-            System.out.println((i+1) + ") Íà ïğèåì ïğèøåë: ");
+            System.out.println((i+1) + ") ĞĞ° Ğ¿Ñ€Ğ¸ĞµĞ¼ Ğ¿Ñ€Ğ¸ÑˆĞµĞ»: ");
             veterinar.treatAnimal(newList.get(i));
         }
 

@@ -8,7 +8,7 @@ public class Dog extends Animal{
 
     @Override
     public void getDescription() {
-        System.out.println("Собака - лучший друг человека");
+        System.out.println("РЎРѕР±Р°РєР° - Р»СѓС‡С€РёР№ РґСЂСѓРі С‡РµР»РѕРІРµРєР°");
     }
 
     @Override
@@ -18,12 +18,12 @@ public class Dog extends Animal{
 
     @Override
     public void makeNoise (){
-        System.out.println("Гаф");
+        System.out.println("Р“Р°С„");
 
     }
     @Override
     public void eat (){
-        System.out.println("Рыба, мясо, хлеб, каша");
+        System.out.println("Р С‹Р±Р°, РјСЏСЃРѕ, С…Р»РµР±, РєР°С€Р°");
     }
 
     @Override
