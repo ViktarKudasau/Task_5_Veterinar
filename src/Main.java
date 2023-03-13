@@ -17,7 +17,7 @@ public class Main {
         Veterinar veterinar = new Veterinar();
 
         for (int i = 0; i < newList.size(); i++) {
-            System.out.println((i+1) + ") На прием пришел: ");
+            System.out.println((i+1) + ") К Ветеринару пришел: ");
             veterinar.treatAnimal(newList.get(i));
         }
 

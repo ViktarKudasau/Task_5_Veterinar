@@ -29,7 +29,7 @@ public class Animal {
     }
 
     public String toString() {
-        return  "На прием пришел - " + name;
+        return  "К Ветеринару пришел: - " + name;
     }
 
 }
